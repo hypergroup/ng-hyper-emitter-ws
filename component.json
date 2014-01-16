@@ -1,0 +1,17 @@
+{
+  "name": "ng-hyper-emitter-ws",
+  "repo": "hypergroup/ng-hyper-emitter-ws",
+  "description": "Websocket emitter for ng-hyper",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "LearnBoost/engine.io-client": "f7e7154132b2dbd71f4c8e89cff3ffc87d23662e"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "remotes": []
+}
