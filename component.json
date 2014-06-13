@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
-    "LearnBoost/engine.io-client": "f7e7154132b2dbd71f4c8e89cff3ffc87d23662e"
+    "Automattic/engine.io-client": "f7e7154132b2dbd71f4c8e89cff3ffc87d23662e"
   },
   "development": {},
   "license": "MIT",
